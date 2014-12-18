@@ -1,0 +1,6 @@
+/vendor
+.env
+.vagrant
+puphpet/
+Vagrantfile
+.idea/
